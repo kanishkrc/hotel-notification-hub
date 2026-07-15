@@ -1,0 +1,22 @@
+# Python / Django
+__pycache__/
+*.py[cod]
+*.sqlite3
+.coverage
+.env
+.venv/
+venv/
+staticfiles/
+
+# Node / Vite
+node_modules/
+dist/
+
+# Celery
+celerybeat-schedule
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
